@@ -1,5 +1,6 @@
-# Aforism
-
+# Aforism  
+  
+Simple script to fetch aforism from forismatic site.  
 
 # Usage:  
 
